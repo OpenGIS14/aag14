@@ -2,7 +2,7 @@
 
 April 7 (Monday), 2014, Tampa FL.
 
-*Co-sponsored by Geographical Analysis and the Department of Geography, The Ohio State University*
+*Co-sponsored by [Geographical Analysis and the Department of Geography, The Ohio State University](http://www.geography.osu.edu/)*
 
 
 ## (8:30-10am) New developments and challenges
@@ -18,11 +18,11 @@ April 7 (Monday), 2014, Tampa FL.
 
 ## (10:15-11:45) Technical and implementation issues
 
-- Lead: [Andrew Turner](http://highearthorbit.com) and Yang, Chaowei (Overview talks, 10 min each)
+- Lead: [Andrew Turner](http://highearthorbit.com) and [Chaowei Yang](http://cpgis.gmu.edu/homepage/) (Overview talks, 10 min each)
 - Lightning talks (10 min each)
-	- Farmer, Carson
-	- Finn, Michael
-	- Xiao, Ningchuan
+	- [Carson Farmer](http://www.carsonfarmer.com/)
+	- [Michael Finn](https://profile.usgs.gov/mfinn)
+	- [Ningchuan Xiao](http://www.geography.osu.edu/faculty/xiao/)
 - Discussion (20-25 min)
 
 ##  Lunch  (11:45--1:00pm)
