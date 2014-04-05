@@ -23,6 +23,7 @@ April 7 (Monday), 2014, Tampa FL.
 	- [Carson Farmer](http://www.carsonfarmer.com/)
 	- [Michael Finn](https://profile.usgs.gov/mfinn)
 	- [Ningchuan Xiao](http://www.geography.osu.edu/faculty/xiao/)
+	- [Jim Thatcher](http://www.jimthatcher.net)
 - [Discussion](discussion-technical.md) (20-25 min)
 
 ##  Lunch  (11:45--1:00pm)
