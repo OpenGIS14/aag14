@@ -1,11 +1,11 @@
 {"type":"FeatureCollection","features":[{"type":"Feature","properties": {
-  name: "The Westin Tampa Harbour Island",
-  timestamp: "2014-04-07T090000-05",
-  url: "http://www.westintampaharbourisland.com/",
-  address: "725 S Harbour Island Blvd",
-  city: "Tampa",
-  state: "FL",
-  postcode: "725 S Harbour Island Blvd"
+  "name": "The Westin Tampa Harbour Island",
+  "timestamp": "2014-04-07T090000-05",
+  "url": "http://www.westintampaharbourisland.com/",
+  "address": "725 S Harbour Island Blvd",
+  "city": "Tampa",
+  "state": "FL",
+  "postcode": "725 S Harbour Island Blvd"
 }, "geometry": { "type": "Point", "coordinates": [-82.45481725840364,27.938293742656068] }}]}
 
 
