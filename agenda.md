@@ -21,7 +21,6 @@ April 7 (Monday), 2014, Tampa FL.
 - Lead: [Andrew Turner](http://highearthorbit.com) and [Chaowei Yang](http://cpgis.gmu.edu/homepage/) (Overview talks, 10 min each)
 - Lightning talks (10 min each)
 	- [Carson Farmer](http://www.carsonfarmer.com/)
-	- [Jim Thatcher](http://jimthatcher.net/)
 	- [Michael Finn](https://profile.usgs.gov/mfinn)
 	- [Ningchuan Xiao](http://www.geography.osu.edu/faculty/xiao/)
 - [Discussion](discussion-technical.md) (20-25 min)
